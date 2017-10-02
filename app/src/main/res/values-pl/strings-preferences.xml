@@ -8,7 +8,7 @@
   <string name="pref_title__froody_server">Zmień serwer</string>
   <string name="pref_title__clear_cache">Wyczyść pamięć podręczną</string>
   <string name="pref_desc__clear_cache">Wyczyść pamięć podręczną, ostatnia pozycja</string>
-  <string name="pref_desc__froody_server">Zmiana serwera dla pobieranie wpisów</string>
+  <string name="pref_desc__froody_server">Zmień serwer z którego pobieraną są wpisy</string>
   <string name="pref_summary__network__http_proxy_enabled">Używaj http proxy Tora do przesyłania większości danych. Niektóre biblioteki zewnętrzne (np. reverse geocoder) mogą nie wspierać połączenia przez proxy. Ta zmiana wymaga restartu</string>
   <string name="pref_title__network__http_proxy_enabled">Używaj http proxy (Tor)</string>
   <!-- App -->
