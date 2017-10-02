@@ -11,7 +11,7 @@
   <string name="certification_type__bio">Organiczne</string>
   <!-- Distribution Types -->
   <string name="distribution_type__sale">Sprzedaż</string>
-  <string name="distribution_type__swap">Przełącz</string>
+  <string name="distribution_type__swap">Zamiana</string>
   <string name="distribution_type__free">Darmowe</string>
   <string name="distribution_type__voluntary_donation">Darowizna</string>
   <!-- Entry Types (Special) -->
