@@ -3,9 +3,14 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Bild</string>
+  <string name="more">Mer</string>
+  <string name="all">Alla</string>
   <!-- More general words -->
+  <string name="map">Karta</string>
   <!-- Main -->
   <!-- Publish -->
+  <string name="publish_entry">Publicera</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
