@@ -4,6 +4,27 @@
   <!-- GPS Types -->
   <!-- Certification Types -->
   <!-- Distribution Types -->
+  <string name="distribution_type__free">Gratis</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__water">Vatten</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Äpple</string>
+  <string name="entry_type__pear">Päron</string>
+  <string name="entry_type__milk">Mjölk</string>
+  <string name="entry_type__raspberry">Hallon</string>
+  <string name="entry_type__carrot">Morotter</string>
+  <string name="entry_type__cucumber">Gurka</string>
+  <string name="entry_type__egg">Ägg</string>
+  <string name="entry_type__fish">Fisk</string>
+  <string name="entry_type__flower">Blommor</string>
+  <string name="entry_type__honey">Honung</string>
+  <string name="entry_type__lemon">Citroner</string>
+  <string name="entry_type__mushroom">Champinjoner</string>
+  <string name="entry_type__orange">Apelsiner</string>
+  <string name="entry_type__peach">Persikor</string>
+  <string name="entry_type__potato">Potatis</string>
+  <string name="entry_type__strawberry">Jordgubbar</string>
+  <string name="entry_type__tomato">Tomater</string>
+  <string name="entry_type__onion">Lök</string>
+  <string name="entry_type__pea">Ärtor</string>
 </resources>
