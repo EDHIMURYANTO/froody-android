@@ -3,8 +3,17 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Imagem</string>
+  <string name="reset">Reiniciar</string>
+  <string name="settings">Configurações</string>
+  <string name="more">Mais</string>
+  <string name="description">Descrição</string>
+  <string name="location">Localização</string>
+  <string name="all">Tudo</string>
   <string name="contributors">Colaboradores</string>
+  <string name="about_">Sobre</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Procurar&#8230;</string>
   <string name="changelog">Histórico de mudanças</string>
   <!-- Main -->
   <string name="share_entry_ask">Publicar oferta?</string>
