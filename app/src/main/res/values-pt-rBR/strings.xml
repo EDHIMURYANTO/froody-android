@@ -22,6 +22,8 @@
   <!-- Main -->
   <string name="share_entry_ask">Publicar oferta?</string>
   <string name="share">Compartilhar&#8230;</string>
+  <string name="donate_bitcoin">Doar\nBitcoins</string>
+  <string name="duration_days_left_text">Dias restantes</string>
   <!-- Publish -->
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="publish_entry_now">Publicar agora</string>
@@ -42,5 +44,8 @@
   <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
   <string name="support_the_project">Colabore com o projeto</string>
   <string name="translate">Traduzir</string>
+  <string name="spread">Divulgue</string>
   <string name="report_bugs">Relatar\nerros</string>
+  <string name="about_the_app">Sobre\no aplicativo</string>
+  <string name="pref_title__language">Idioma</string>
 </resources>
