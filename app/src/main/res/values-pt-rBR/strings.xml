@@ -14,20 +14,33 @@
   <string name="about_">Sobre</string>
   <!-- More general words -->
   <string name="search_dotdotdot">Procurar&#8230;</string>
+  <string name="distribution_type">Distribuição</string>
+  <string name="map">Mapa</string>
+  <string name="blog">Blog</string>
+  <string name="license">Licença</string>
   <string name="changelog">Histórico de mudanças</string>
   <!-- Main -->
   <string name="share_entry_ask">Publicar oferta?</string>
   <string name="share">Compartilhar&#8230;</string>
   <!-- Publish -->
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
+  <string name="publish_entry_now">Publicar agora</string>
+  <string name="publish_entry">Publicar</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
   <string name="share_chooser_share_entry">Publicar oferta</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
   <string name="show_third_party_licenses">Exibir licenças de terceiros</string>
   <string name="more_information">Mais informação</string>
+  <string name="sponsors">Patrocinadores</string>
   <!-- Location -->
+  <string name="request_location">Solicitar localização</string>
+  <string name="gps_locating_user">Localizando&#8230;</string>
+  <string name="address_most_near">Nas proximidades</string>
   <string name="error_bad_permissions">Por favor. Autorize o Froody a acessar os dados de localização do seu aparelho\n\nSem esta permissão você não conseguirá publicar suas ofertas e sua localização no mapa não poderá ser registrada.\n\nVocê pode registrar sua posição novamente pressionando o botão respectivo no menu acima.</string>
+  <string name="show_map_on_current_location">Mostrar o mapa na localização atual?</string>
   <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
+  <string name="support_the_project">Colabore com o projeto</string>
+  <string name="translate">Traduzir</string>
   <string name="report_bugs">Relatar\nerros</string>
 </resources>
