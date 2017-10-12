@@ -27,6 +27,7 @@
   <string name="duration_days_left_text">Dias restantes</string>
   <!-- Publish -->
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
+  <string name="hint__contact__enter_here">Insira uma descrição aqui (deve conter n.º de telefone ou e-mail)</string>
   <string name="publish_entry_now">Publicar agora</string>
   <string name="publish_entry">Publicar</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
