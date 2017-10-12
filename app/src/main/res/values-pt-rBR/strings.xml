@@ -47,5 +47,6 @@
   <string name="spread">Divulgue</string>
   <string name="report_bugs">Relatar\nerros</string>
   <string name="about_the_app">Sobre\no aplicativo</string>
+  <string name="pref_desc__language">Alterar o idioma deste aplicativo. Reinicie o aplicativo para as mudanças terem efeito</string>
   <string name="pref_title__language">Idioma</string>
 </resources>
