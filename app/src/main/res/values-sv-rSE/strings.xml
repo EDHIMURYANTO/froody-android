@@ -4,13 +4,27 @@
   <!-- General & Important things -->
   <!-- General words -->
   <string name="image">Bild</string>
+  <string name="reset">Återställ</string>
+  <string name="settings">Inställning</string>
   <string name="more">Mer</string>
+  <string name="description">Beskrivning</string>
+  <string name="location">Plats</string>
   <string name="all">Alla</string>
+  <string name="contributors">Medhjälpare</string>
+  <string name="about_">Om</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Sök&#8230;</string>
+  <string name="distribution_type">Distribuering</string>
+  <string name="certification">Certifiering</string>
+  <string name="contact">Kontakt</string>
   <string name="map">Karta</string>
+  <string name="blog">Blogg</string>
+  <string name="license">Licens</string>
+  <string name="changelog">Ändringslogg</string>
   <!-- Main -->
   <!-- Publish -->
   <string name="publish_entry">Publicera</string>
   <!-- Info -->
   <!-- Location -->
+  <string name="pref_title__language">Språk</string>
 </resources>
