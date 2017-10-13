@@ -22,9 +22,27 @@
   <string name="license">Licens</string>
   <string name="changelog">Ändringslogg</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Inga poster tillgängliga</string>
+  <string name="really_delete_entry">Vill du verkligen ta bort den här posten?</string>
+  <string name="share_entry_ask">Dela posten?</string>
+  <string name="share">Dela&#8230;</string>
+  <string name="donate_bitcoin">Donera\nBitcoin</string>
+  <string name="duration_days_left_text">Dagar kvar</string>
   <!-- Publish -->
+  <string name="suggested">Föreslagen</string>
+  <string name="select_froody">Välj Froody&#8230;</string>
+  <string name="publish_entry_now">Publicera nu</string>
   <string name="publish_entry">Publicera</string>
+  <string name="share_my_entry_at_froody">Min post i Froody-appen</string>
+  <string name="share_chooser_share_entry">Dela posten</string>
+  <string name="nav__my_entries">Mina poster</string>
+  <string name="error_cannot_publish_entry">Fel: Kan inte publicera posten</string>
   <!-- Info -->
+  <string name="show_app_licenses">Visa licenser</string>
+  <string name="show_third_party_licenses">Visa tredjeparts-licenser</string>
+  <string name="more_information">Mer information</string>
+  <string name="sponsors">Sponsorer</string>
   <!-- Location -->
+  <string name="gps_locating_user">Lokaliserar&#8230;</string>
   <string name="pref_title__language">Språk</string>
 </resources>
