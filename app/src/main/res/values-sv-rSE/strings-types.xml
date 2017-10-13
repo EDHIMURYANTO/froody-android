@@ -10,15 +10,27 @@
   <string name="certification_type__none">Ingen</string>
   <string name="certification_type__bio">Organisk</string>
   <!-- Distribution Types -->
+  <string name="distribution_type__sale">Försäljning</string>
   <string name="distribution_type__free">Gratis</string>
+  <string name="distribution_type__voluntary_donation">Bidrag</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__miscellaneous">Diverse</string>
   <string name="entry_type__special__water">Vatten</string>
   <!-- Entry Types -->
   <string name="entry_type__apple">Äpple</string>
   <string name="entry_type__pear">Päron</string>
+  <string name="entry_type__cherry">Körsbär</string>
+  <string name="entry_type__plum">Plommon</string>
+  <string name="entry_type__currant_red">Röda vinbär</string>
+  <string name="entry_type__grape">Druvor</string>
+  <string name="entry_type__hazelnut">Hasselnötter</string>
   <string name="entry_type__milk">Mjölk</string>
   <string name="entry_type__raspberry">Hallon</string>
+  <string name="entry_type__walnut">Valnötter</string>
   <string name="entry_type__carrot">Morotter</string>
+  <string name="entry_type__cereal">Flingor</string>
+  <string name="entry_type__chili">Chilifrukter</string>
+  <string name="entry_type__corn">Majs</string>
   <string name="entry_type__cucumber">Gurka</string>
   <string name="entry_type__egg">Ägg</string>
   <string name="entry_type__fish">Fisk</string>
@@ -29,8 +41,26 @@
   <string name="entry_type__orange">Apelsiner</string>
   <string name="entry_type__peach">Persikor</string>
   <string name="entry_type__potato">Potatis</string>
+  <string name="entry_type__sapling">Trädplantor</string>
   <string name="entry_type__strawberry">Jordgubbar</string>
   <string name="entry_type__tomato">Tomater</string>
+  <string name="entry_type__wood">Trä</string>
+  <string name="entry_type__zucchini">Zucchini</string>
+  <string name="entry_type__aubergine">Äggplantor</string>
+  <string name="entry_type__mango">Mango</string>
+  <string name="entry_type__asparagus">Sparris</string>
+  <string name="entry_type__avocado">Avokados</string>
+  <string name="entry_type__green_bean">Gröna bönor</string>
+  <string name="entry_type__blueberry">Blåbär</string>
+  <string name="entry_type__garlic">Vitlök</string>
   <string name="entry_type__onion">Lök</string>
   <string name="entry_type__pea">Ärtor</string>
+  <string name="entry_type__pepper">Paprika</string>
+  <string name="entry_type__pumpkin">Pumpor</string>
+  <string name="entry_type__radish">Rädisor</string>
+  <string name="entry_type__salad">Sallader</string>
+  <string name="entry_type__seed">Frön</string>
+  <string name="entry_type__soy_bean">Sojabönor</string>
+  <string name="entry_type__currant_black">Svarta vinbär</string>
+  <string name="entry_type__blackberry">Björnbär</string>
 </resources>
