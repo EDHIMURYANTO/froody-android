@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">大部分の通信で http プロキシとして Tor を使用します。一部のサードパーティーライブラリー (例えば リバースジオコーダー) はプロキシ経由の接続をサポートしていません。変更は、再起動が必要です</string>
   <string name="pref_title__network__http_proxy_enabled">http プロキシを使用する (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ユーザー ID</string>
   <string name="pref_cat__expert">エキスパート設定</string>
   <string name="pref_desc__reset_app">新しくインストールした状態にアプリをリセットします</string>
   <string name="pref_title__reset_app">アプリをリセット</string>
