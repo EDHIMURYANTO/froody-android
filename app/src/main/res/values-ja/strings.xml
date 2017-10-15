@@ -27,6 +27,7 @@
   <string name="share">共有&#8230;</string>
   <string name="donate_bitcoin">Bitcoin\nを寄付</string>
   <string name="duration_days_left_text">残り日数</string>
+  <string name="duration_months_left_text">ヶ月残り</string>
   <!-- Publish -->
   <string name="suggested">おすすめ</string>
   <string name="select_froody">Froody を選択してください&#8230;</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">エラー: 入力が不完全です</string>
   <string name="pref_desc__language">このアプリの言語を変更します。アプリを再起動すると変更を反映します</string>
   <string name="pref_title__language">言語</string>
+  <string name="data_copied_to_clipboard">データをクリップボードにコピーしました</string>
+  <string name="load_from_clipboard">クリップボードから読み込む</string>
 </resources>
