@@ -61,5 +61,6 @@
   <string name="error_incomplete_input">Feil: Ufullstendig data</string>
   <string name="pref_desc__language">Bytt språket for denne appen og omstart den for at endringen skal ta sted</string>
   <string name="pref_title__language">Språk</string>
-  <string name="data_copied_to_clipboard">Data kopiert til utklippstavlen</string>
+  <string name="data_copied_to_clipboard">Lagt til utklippstavlen</string>
+  <string name="load_from_clipboard">Lim inn fra utklippstavlen</string>
 </resources>
