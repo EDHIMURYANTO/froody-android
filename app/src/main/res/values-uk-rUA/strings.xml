@@ -27,6 +27,7 @@
   <string name="share">Поширити&#8230;</string>
   <string name="donate_bitcoin">Пожертва\nBitcoin</string>
   <string name="duration_days_left_text">дні(в) лишилося</string>
+  <string name="duration_months_left_text">Лишилося місяців</string>
   <!-- Publish -->
   <string name="suggested">Пропоноване</string>
   <string name="select_froody">Обрати Froody&#8230;</string>
