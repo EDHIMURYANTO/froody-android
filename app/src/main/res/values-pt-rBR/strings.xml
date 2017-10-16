@@ -20,17 +20,23 @@
   <string name="license">Licença</string>
   <string name="changelog">Histórico de mudanças</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Não há itens disponíveis</string>
+  <string name="really_delete_entry">Você realmente quer deletar este item?</string>
   <string name="share_entry_ask">Publicar oferta?</string>
   <string name="share">Compartilhar&#8230;</string>
   <string name="donate_bitcoin">Doar\nBitcoins</string>
   <string name="duration_days_left_text">Dias restantes</string>
+  <string name="duration_months_left_text">Meses restantes</string>
   <!-- Publish -->
+  <string name="select_froody">Escolher um Froody&#8230;</string>
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="hint__contact__enter_here">Insira uma descrição aqui (deve conter n.º de telefone ou e-mail)</string>
   <string name="publish_entry_now">Publicar agora</string>
   <string name="publish_entry">Publicar</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
+  <string name="share_my_entry_at_froody">Meu item no Aplicativo Froody</string>
   <string name="share_chooser_share_entry">Publicar oferta</string>
+  <string name="nav__my_entries">Meus Itens</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
   <string name="show_third_party_licenses">Exibir licenças de terceiros</string>
