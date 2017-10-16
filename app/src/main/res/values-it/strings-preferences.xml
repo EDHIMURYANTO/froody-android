@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Utilizzare Tor come proxy http per la maggior parte del traffico. Alcune librerie di terze parti (ad esempio reverse gecocoder) potrebbero non supportare le connessioni tramite proxy. La modifica richiede il riavvio</string>
   <string name="pref_title__network__http_proxy_enabled">Utilizza il proxy http (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">User ID</string>
   <string name="pref_cat__expert">Impostazioni avanzate</string>
   <string name="pref_desc__reset_app">Reimposta l\'app alle impostazioni di origine</string>
   <string name="pref_title__reset_app">Resetta app</string>
