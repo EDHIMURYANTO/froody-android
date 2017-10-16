@@ -31,8 +31,8 @@
   <!-- Publish -->
   <string name="suggested">Foreslått</string>
   <string name="select_froody">Velg Froody&#8230;</string>
-  <string name="hint__description__enter_here">Skriv inn en beskrivelse for dette innlegget her (f.eks. kvalitet, for å lage syltetøy, undertype&#8230;)</string>
-  <string name="hint__contact__enter_here">Skriv inn kontaktinformasjon for dette innlegget her (bør inneholde tlf. eller e-post)</string>
+  <string name="hint__description__enter_here">Beskriv innlegget her (f.eks. kvalitet, for å lage syltetøy, undertype&#8230;)</string>
+  <string name="hint__contact__enter_here">Angi kontaktinformasjon for innlegget her (bør inneholde tlf. eller e-post)</string>
   <string name="publish_entry_now">Publisér nå</string>
   <string name="publish_entry">Publisér</string>
   <string name="limited_time_active_notice">Forsiktig! Dette innlegget er bare tilgjengelig de neste %1$d dagene.</string>
