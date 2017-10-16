@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Tor als http Proxy für die meisten Verbindungen verwenden. Manche Drittanbieter-Bibliotheken (z.B. Reverse Geocoder) unterstützen keine Verbindungen via Proxy. Änderungen erfordern einen Neustart</string>
   <string name="pref_title__network__http_proxy_enabled">Http-Proxy verwenden (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">Benutzerkennung</string>
   <string name="pref_cat__expert">Experten Einstellungen</string>
   <string name="pref_desc__reset_app">App inklusiver aller Daten zurücksetzen</string>
   <string name="pref_title__reset_app">App zurücksetzen</string>
