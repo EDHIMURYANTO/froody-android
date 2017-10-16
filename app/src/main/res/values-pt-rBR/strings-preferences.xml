@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Usar Tor como proxy http para a maior parte do tráfego. Algumas bibliotecas de terceiros (e.g. reverser geocoder) não conseguem conectar-se via proxy. Será necessário reiniciar o aplicativo</string>
   <string name="pref_title__network__http_proxy_enabled">Usar proxy http (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ID do usuário</string>
   <string name="pref_cat__expert">Configurações avançadas</string>
   <string name="pref_desc__reset_app">Zerar todos os dados do aplicativo</string>
   <string name="pref_title__reset_app">Redefinir o aplicativo</string>
