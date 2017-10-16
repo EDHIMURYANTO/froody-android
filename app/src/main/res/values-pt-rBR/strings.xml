@@ -48,12 +48,15 @@
   <string name="address_most_near">Nas proximidades</string>
   <string name="error_bad_permissions">Por favor. Autorize o Froody a acessar os dados de localização do seu aparelho\n\nSem esta permissão você não conseguirá publicar suas ofertas e sua localização no mapa não poderá ser registrada.\n\nVocê pode registrar sua posição novamente pressionando o botão respectivo no menu acima.</string>
   <string name="show_map_on_current_location">Mostrar o mapa na localização atual?</string>
+  <string name="cannot_locate_user">Não é possível localizar o usuário. Por favor, habilite os serviços de localização nas configurações do sistema!</string>
   <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
   <string name="support_the_project">Colabore com o projeto</string>
   <string name="translate">Traduzir</string>
   <string name="spread">Divulgue</string>
   <string name="report_bugs">Relatar\nerros</string>
   <string name="about_the_app">Sobre\no aplicativo</string>
+  <string name="error_incomplete_input">Erro: Dados incompletos</string>
   <string name="pref_desc__language">Alterar o idioma deste aplicativo. Reinicie o aplicativo para as mudanças terem efeito</string>
   <string name="pref_title__language">Idioma</string>
+  <string name="data_copied_to_clipboard">Dados copiados para a área de transferência</string>
 </resources>
