@@ -27,6 +27,7 @@
   <string name="share">Bḍu...</string>
   <string name="donate_bitcoin">Asefku s\nBitcoin</string>
   <string name="duration_days_left_text">Ussan id igran</string>
+  <string name="duration_months_left_text">Agguren i d-yeggran</string>
   <!-- Publish -->
   <string name="suggested">Mel</string>
   <string name="select_froody">Fren Froody...</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">Tuccḍa : txuṣ tira</string>
   <string name="pref_desc__language">Beddel tutlayt n usnas.uɣal sekker asnas iw akken azdam ad lḥun</string>
   <string name="pref_title__language">Tutlayt</string>
+  <string name="data_copied_to_clipboard">Isefka yettwaneɣlen ɣef afus</string>
+  <string name="load_from_clipboard">Sali-d seg ɣef afus</string>
 </resources>
