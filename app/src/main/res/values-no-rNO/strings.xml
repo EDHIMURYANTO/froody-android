@@ -51,7 +51,7 @@
   <string name="address_most_near">Nære</string>
   <string name="error_bad_permissions">Vennligst gi Froody tilgang til enhetsposisjonen din.\n\nUten denne tilgangen kan du ikke publisere innlegg på Froody, og posisjonen din vil ikke vises på kartet.\n\nDu kan lete etter posisjonen din igjen ved å trykke på posisjonsknappen på toppen av verktøylinjen.</string>
   <string name="show_map_on_current_location">Vis nåværende posisjon på kartet?</string>
-  <string name="cannot_locate_user">Kunne ikke finne bruker. Vennligst aktivér posisjonstjeneste i systeminnstillingene!</string>
+  <string name="cannot_locate_user">Kunne ikke finne bruker. Vennligst aktivér posisjonstjenester i systeminnstillingene!</string>
   <string name="error_couldnt_connect_or_register">Feil: Kunne ikke tilkoble server eller finne bruker.</string>
   <string name="support_the_project">Støtt prosjektet</string>
   <string name="translate">Oversett</string>
@@ -59,7 +59,7 @@
   <string name="report_bugs">Rapportér\nfeil</string>
   <string name="about_the_app">Om\nappen</string>
   <string name="error_incomplete_input">Feil: Ufullstendig data</string>
-  <string name="pref_desc__language">Bytt språket for denne appen og omstart den for at endringen skal ta sted</string>
+  <string name="pref_desc__language">Bytt språket for denne appen og omstart slik at endringen kan ta sted</string>
   <string name="pref_title__language">Språk</string>
   <string name="data_copied_to_clipboard">Lagt til utklippstavlen</string>
   <string name="load_from_clipboard">Lim inn fra utklippstavlen</string>
