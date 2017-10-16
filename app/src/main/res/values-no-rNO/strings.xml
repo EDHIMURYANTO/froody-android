@@ -27,6 +27,7 @@
   <string name="share">Del&#8230;</string>
   <string name="donate_bitcoin">Donér\nBitcoin</string>
   <string name="duration_days_left_text">Dager igjen</string>
+  <string name="duration_months_left_text">Måneder igjen</string>
   <!-- Publish -->
   <string name="suggested">Foreslått</string>
   <string name="select_froody">Velg Froody&#8230;</string>
@@ -60,4 +61,5 @@
   <string name="error_incomplete_input">Feil: Ufullstendig data</string>
   <string name="pref_desc__language">Bytt språket for denne appen og omstart den for at endringen skal ta sted</string>
   <string name="pref_title__language">Språk</string>
+  <string name="data_copied_to_clipboard">Data kopiert til utklippstavlen</string>
 </resources>
