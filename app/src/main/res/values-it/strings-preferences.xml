@@ -9,7 +9,7 @@
   <string name="pref_title__clear_cache">Svuota cache</string>
   <string name="pref_desc__clear_cache">Svuota cache</string>
   <string name="pref_desc__froody_server">Modificare il server per il recupero di voci</string>
-  <string name="pref_summary__network__http_proxy_enabled">Utilizzare Tor come proxy http per la maggior parte del traffico. Alcune librerie di terze parti (ad esempio reverse gecocoder) potrebbero non supportare le connessioni tramite proxy. La modifica richiede il riavvio</string>
+  <string name="pref_summary__network__http_proxy_enabled">Utilizzare Tor come proxy http per la maggior parte del traffico. Alcune librerie di terze parti (ad esempio reverse geocoder) potrebbero non supportare le connessioni tramite proxy. La modifica richiede il riavvio</string>
   <string name="pref_title__network__http_proxy_enabled">Utilizza il proxy http (Tor)</string>
   <!-- App -->
   <string name="pref_title__user_id">User ID</string>
