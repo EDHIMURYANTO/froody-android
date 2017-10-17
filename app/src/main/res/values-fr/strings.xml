@@ -27,6 +27,7 @@
   <string name="share">Partager&#8230;</string>
   <string name="donate_bitcoin">Donner en\nBitcoin</string>
   <string name="duration_days_left_text">Jours restants</string>
+  <string name="duration_months_left_text">Mois restants</string>
   <!-- Publish -->
   <string name="suggested">Suggérés</string>
   <string name="select_froody">Choisir Froody&#8230;</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">Erreur : saisie incomplète</string>
   <string name="pref_desc__language">Change la langue de l\'application. Redémarrez l\'application pour que les changements prennent effet</string>
   <string name="pref_title__language">Langue</string>
+  <string name="data_copied_to_clipboard">Données copiées dans le presse-papiers</string>
+  <string name="load_from_clipboard">Charger depuis le presse-papiers</string>
 </resources>
