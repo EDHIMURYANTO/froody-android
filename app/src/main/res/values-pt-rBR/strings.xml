@@ -22,7 +22,7 @@
   <!-- Main -->
   <string name="no_entries_were_published_by_me">Não há itens disponíveis</string>
   <string name="really_delete_entry">Você realmente quer deletar este item?</string>
-  <string name="share_entry_ask">Publicar oferta?</string>
+  <string name="share_entry_ask">Compartilhar item?</string>
   <string name="share">Compartilhar&#8230;</string>
   <string name="donate_bitcoin">Doar\nBitcoins</string>
   <string name="duration_days_left_text">Dias restantes</string>
@@ -35,7 +35,7 @@
   <string name="publish_entry">Publicar</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
   <string name="share_my_entry_at_froody">Meu item no Aplicativo Froody</string>
-  <string name="share_chooser_share_entry">Publicar oferta</string>
+  <string name="share_chooser_share_entry">Compartilhar item</string>
   <string name="nav__my_entries">Meus Itens</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
