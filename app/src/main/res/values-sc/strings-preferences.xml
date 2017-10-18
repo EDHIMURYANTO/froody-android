@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Imprea Tor comente server intermediàriu (proxy) http. Calicuna de sas librerias de tertzas partes (es. reverse geocoder) diat non pòdere suportare sas connessiones pro mèdiu de servers intermediàrios. Sa modìfica tenet bisòngiu de torrare a allùghere s\'aplicatzione pro tènnere efetu</string>
   <string name="pref_title__network__http_proxy_enabled">Imprea su server intermediàriu http (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ID Impreadore</string>
   <string name="pref_cat__expert">Impostatziones avantzadas</string>
   <string name="pref_desc__reset_app">Torra a impostare s\'ap. a sas impostatziones initziales</string>
   <string name="pref_title__reset_app">Reimposta s\'aplicatzione</string>
