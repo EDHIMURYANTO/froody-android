@@ -27,6 +27,7 @@
   <string name="share">Compartir&#8230;</string>
   <string name="donate_bitcoin">Donar\nBitcoins</string>
   <string name="duration_days_left_text">Días restantes</string>
+  <string name="duration_months_left_text">Meses restantes</string>
   <!-- Publish -->
   <string name="suggested">Sugerido</string>
   <string name="select_froody">Elija un Froody&#8230;</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">Error: Entrada incompleta</string>
   <string name="pref_desc__language">Cambiar el idioma de esta app. Reinicie la aplicación para que los cambios surtan efecto</string>
   <string name="pref_title__language">Idioma</string>
+  <string name="data_copied_to_clipboard">Datos copiados al portapapeles</string>
+  <string name="load_from_clipboard">Cargar desde portapapeles</string>
 </resources>
