@@ -29,6 +29,7 @@
   <string name="duration_days_left_text">Dias restantes</string>
   <string name="duration_months_left_text">Meses restantes</string>
   <!-- Publish -->
+  <string name="suggested">Sugeridos</string>
   <string name="select_froody">Escolher um Froody&#8230;</string>
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="hint__contact__enter_here">Insira aqui uma descrição para este item (deve conter n.º de telefone ou e-mail)</string>
@@ -40,6 +41,7 @@
   <string name="nav__my_entries">Meus Itens</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
+  <string name="show_app_licenses">Exibir licenças</string>
   <string name="show_third_party_licenses">Exibir licenças de terceiros</string>
   <string name="more_information">Mais informação</string>
   <string name="sponsors">Patrocinadores</string>
@@ -60,4 +62,5 @@
   <string name="pref_desc__language">Alterar o idioma deste aplicativo. Reinicie o aplicativo para as mudanças terem efeito</string>
   <string name="pref_title__language">Idioma</string>
   <string name="data_copied_to_clipboard">Dados copiados para a área de transferência</string>
+  <string name="load_from_clipboard">Carregar da área de transferência</string>
 </resources>
