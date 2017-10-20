@@ -32,13 +32,13 @@
   <string name="suggested">Sugeridos</string>
   <string name="select_froody">Escolher um Froody&#8230;</string>
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
-  <string name="hint__contact__enter_here">Insira aqui uma descrição para este item (deve conter n.º de telefone ou e-mail)</string>
+  <string name="hint__contact__enter_here">Insira uma descrição para o item (deve conter n.º de telefone ou e-mail)</string>
   <string name="publish_entry_now">Publicar agora</string>
   <string name="publish_entry">Publicar</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
   <string name="share_my_entry_at_froody">Meu item no Aplicativo Froody</string>
   <string name="share_chooser_share_entry">Compartilhar item</string>
-  <string name="nav__my_entries">Meus Itens</string>
+  <string name="nav__my_entries">Meus itens</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
   <string name="show_app_licenses">Exibir licenças</string>
@@ -51,7 +51,7 @@
   <string name="address_most_near">Nas proximidades</string>
   <string name="error_bad_permissions">Por favor. Autorize o Froody a acessar os dados de localização do seu aparelho\n\nSem esta permissão você não conseguirá publicar suas ofertas e sua localização no mapa não poderá ser registrada.\n\nVocê pode registrar sua posição novamente pressionando o botão respectivo no menu acima.</string>
   <string name="show_map_on_current_location">Mostrar o mapa na localização atual?</string>
-  <string name="cannot_locate_user">Não é possível localizar o usuário. Por favor, habilite os serviços de localização nas configurações do sistema!</string>
+  <string name="cannot_locate_user">Impossível localizar o usuário. Habilite o serviço de localização nas configurações do sistema!</string>
   <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
   <string name="support_the_project">Colabore com o projeto</string>
   <string name="translate">Traduzir</string>
