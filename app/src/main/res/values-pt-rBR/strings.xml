@@ -49,9 +49,9 @@
   <string name="request_location">Solicitar localização</string>
   <string name="gps_locating_user">Localizando&#8230;</string>
   <string name="address_most_near">Nas proximidades</string>
-  <string name="error_bad_permissions">Por favor. Autorize o Froody a acessar os dados de localização do seu aparelho\n\nSem esta permissão você não conseguirá publicar suas ofertas e sua localização no mapa não poderá ser registrada.\n\nVocê pode registrar sua posição novamente pressionando o botão respectivo no menu acima.</string>
+  <string name="error_bad_permissions">Por favor. Autorize o Froody a acessar os dados de localização do seu aparelho\n\nSem esta permissão você não conseguirá publicar seus itens e sua localização no mapa não poderá ser registrada.\n\nVocê pode registrar sua posição novamente pressionando o botão respectivo no menu acima.</string>
   <string name="show_map_on_current_location">Mostrar o mapa na localização atual?</string>
-  <string name="cannot_locate_user">Impossível localizar o usuário. Habilite o serviço de localização nas configurações do sistema!</string>
+  <string name="cannot_locate_user">Impossível localizar o usuário. Por favor, habilite o GPS!</string>
   <string name="error_couldnt_connect_or_register">Impossível conectar ao servidor ou detectar o usuário.</string>
   <string name="support_the_project">Colabore com o projeto</string>
   <string name="translate">Traduzir</string>
