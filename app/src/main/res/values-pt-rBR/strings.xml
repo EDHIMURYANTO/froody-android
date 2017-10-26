@@ -29,7 +29,7 @@
   <string name="duration_days_left_text">Dias restantes</string>
   <string name="duration_months_left_text">Meses restantes</string>
   <!-- Publish -->
-  <string name="suggested">Sugeridos</string>
+  <string name="suggested">Sugestões</string>
   <string name="select_froody">Selecionar Froody&#8230;</string>
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="hint__contact__enter_here">Insira uma descrição para o item (deve conter n.º de telefone ou e-mail)</string>
