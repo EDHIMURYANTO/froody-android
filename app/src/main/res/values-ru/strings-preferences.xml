@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Использовать Tor как http-прокси для большинства трафика. Некоторые библиотеки (напр. обратного геокодирования) могут не поддерживать подключения через прокси. Изменение требует перезагрузки</string>
   <string name="pref_title__network__http_proxy_enabled">Использовать прокси-сервер http (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ID пользователя</string>
   <string name="pref_cat__expert">Продвинутые настройки</string>
   <string name="pref_desc__reset_app">Сброс приложения до состояния свежеустановленного</string>
   <string name="pref_title__reset_app">Сброс приложения</string>
