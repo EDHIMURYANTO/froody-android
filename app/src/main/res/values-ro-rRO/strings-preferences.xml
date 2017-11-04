@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Utilizați Tor ca proxy http pentru majoritatea traficului. Este posibil ca unele biblioteci terță (de exemplu geocoder invers) să nu suporte conexiuni via proxy. Schimbarea necesită repornirea aplicației</string>
   <string name="pref_title__network__http_proxy_enabled">Utilizați proxy http (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ID de utilizator</string>
   <string name="pref_cat__expert">Setări expert</string>
   <string name="pref_desc__reset_app">Resetează aplicația la stadiul instalării proaspete</string>
   <string name="pref_title__reset_app">Resetați aplicația</string>
