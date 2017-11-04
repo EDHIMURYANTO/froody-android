@@ -27,6 +27,7 @@
   <string name="share">Distribuire&#8230;</string>
   <string name="donate_bitcoin">Donaţi\nBitcoin</string>
   <string name="duration_days_left_text">Zile rămase</string>
+  <string name="duration_months_left_text">Luni rămase</string>
   <!-- Publish -->
   <string name="suggested">Sugerat</string>
   <string name="select_froody">Alegeţi Froody&#8230;</string>
@@ -58,4 +59,8 @@
   <string name="report_bugs">Raportează\nerori</string>
   <string name="about_the_app">Despre\naplicaţie</string>
   <string name="error_incomplete_input">Eroare: Introducere incompletă</string>
+  <string name="pref_desc__language">Schimbă limba acestei aplicații. Restartează aplicația pentru ca schimbările să ia efect</string>
+  <string name="pref_title__language">Limbă</string>
+  <string name="data_copied_to_clipboard">Date copiate în clipboard</string>
+  <string name="load_from_clipboard">Încarcă din clipboard</string>
 </resources>
