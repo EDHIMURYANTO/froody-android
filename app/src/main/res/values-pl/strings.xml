@@ -27,6 +27,7 @@
   <string name="share">Udostępnij&#8230;</string>
   <string name="donate_bitcoin">Wspomóż\nBitcoinami</string>
   <string name="duration_days_left_text">Pozostało dni</string>
+  <string name="duration_months_left_text">Pozostało jeszcze miesięcy</string>
   <!-- Publish -->
   <string name="suggested">Zasugeruj</string>
   <string name="select_froody">Wybierz Froody&#8230;</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">Błąd: nie wpisano wszystkich danych</string>
   <string name="pref_desc__language">Zmień język aplikacji. Uruchom ponownie aplikację by zobaczyć zmianę</string>
   <string name="pref_title__language">Język</string>
+  <string name="data_copied_to_clipboard">Skopiowane do schowka</string>
+  <string name="load_from_clipboard">Importuj ze schowka</string>
 </resources>
