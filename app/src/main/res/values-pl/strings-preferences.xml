@@ -12,6 +12,7 @@
   <string name="pref_summary__network__http_proxy_enabled">Używaj http proxy Tora do przesyłania większości danych. Niektóre biblioteki zewnętrzne (np. reverse geocoder) mogą nie wspierać połączenia przez proxy. Ta zmiana wymaga restartu</string>
   <string name="pref_title__network__http_proxy_enabled">Używaj http proxy (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">ID Użytkownika</string>
   <string name="pref_cat__expert">Ustawienia zaawansowane</string>
   <string name="pref_desc__reset_app">Uruchom ponownie aplikację aby odświeżyć zainstalowaną zawartość</string>
   <string name="pref_title__reset_app">Uruchom aplikację ponownie</string>
