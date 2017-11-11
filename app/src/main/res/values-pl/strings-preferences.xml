@@ -14,6 +14,6 @@
   <!-- App -->
   <string name="pref_title__user_id">ID Użytkownika</string>
   <string name="pref_cat__expert">Ustawienia zaawansowane</string>
-  <string name="pref_desc__reset_app">Uruchom ponownie aplikację aby odświeżyć zainstalowaną zawartość</string>
+  <string name="pref_desc__reset_app">Resetuj do ustawień początkowych</string>
   <string name="pref_title__reset_app">Uruchom aplikację ponownie</string>
 </resources>
