@@ -6,4 +6,16 @@
   <!-- Distribution Types -->
   <!-- Entry Types (Special) -->
   <!-- Entry Types -->
+  <string name="entry_type__grape">अंगूर</string>
+  <string name="entry_type__milk">दूध</string>
+  <string name="entry_type__walnut">अखरोट</string>
+  <string name="entry_type__carrot">गाजर</string>
+  <string name="entry_type__egg">अंडे</string>
+  <string name="entry_type__fish">मछली</string>
+  <string name="entry_type__flower">फूल</string>
+  <string name="entry_type__honey">शहद</string>
+  <string name="entry_type__lemon">नींबू</string>
+  <string name="entry_type__mushroom">मशरूम</string>
+  <string name="entry_type__potato">आलू</string>
+  <string name="entry_type__pea">मटर</string>
 </resources>
