@@ -5,7 +5,9 @@
   <!-- Certification Types -->
   <!-- Distribution Types -->
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__water">पानी</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">सेब</string>
   <string name="entry_type__grape">अंगूर</string>
   <string name="entry_type__milk">दूध</string>
   <string name="entry_type__walnut">अखरोट</string>
@@ -16,6 +18,18 @@
   <string name="entry_type__honey">शहद</string>
   <string name="entry_type__lemon">नींबू</string>
   <string name="entry_type__mushroom">मशरूम</string>
+  <string name="entry_type__orange">संतरे</string>
   <string name="entry_type__potato">आलू</string>
+  <string name="entry_type__strawberry">स्ट्रॉबेरी</string>
+  <string name="entry_type__tomato">टमाटर</string>
+  <string name="entry_type__wood">लकड़ी</string>
+  <string name="entry_type__aubergine">बैंगन</string>
+  <string name="entry_type__mango">आम</string>
+  <string name="entry_type__blueberry">ब्लूबेरी</string>
+  <string name="entry_type__garlic">लहसुन</string>
+  <string name="entry_type__onion">प्याज</string>
   <string name="entry_type__pea">मटर</string>
+  <string name="entry_type__pepper">काली मिर्च</string>
+  <string name="entry_type__radish">मूली</string>
+  <string name="entry_type__seed">बीज</string>
 </resources>
