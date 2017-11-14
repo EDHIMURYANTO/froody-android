@@ -7,4 +7,5 @@
   <!-- Publish -->
   <!-- Info -->
   <!-- Location -->
+  <string name="pref_title__language">भाषा</string>
 </resources>
