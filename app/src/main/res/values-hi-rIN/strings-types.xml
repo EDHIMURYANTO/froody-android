@@ -36,8 +36,11 @@
   <string name="entry_type__strawberry">स्ट्रॉबेरी</string>
   <string name="entry_type__tomato">टमाटर</string>
   <string name="entry_type__wood">लकड़ी</string>
+  <string name="entry_type__zucchini">तुरई</string>
   <string name="entry_type__aubergine">बैंगन</string>
   <string name="entry_type__mango">आम</string>
+  <string name="entry_type__asparagus">शतावरी</string>
+  <string name="entry_type__avocado">एवोकेडो</string>
   <string name="entry_type__green_bean">हरी बीन्स</string>
   <string name="entry_type__blueberry">ब्लूबेरी</string>
   <string name="entry_type__garlic">लहसुन</string>
