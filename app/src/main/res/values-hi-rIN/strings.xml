@@ -49,6 +49,7 @@
   <string name="request_location">स्थान का अनुरोध करें</string>
   <string name="gps_locating_user">पता लगा रहा है...</string>
   <string name="address_most_near">पास</string>
+  <string name="error_bad_permissions">कृपया Froody को अपने डिवाइस के स्थान तक पहुंचने की अनुमति दें.\n\n\इस अनुमति के बिना आप Froody से प्रविष्टियों को प्रकाशित नहीं कर सकते हैं और नक्शे पर आपकी वर्तमान स्थिति निर्धारित नहीं की जा सकती।\n\n\ शीर्ष टूलबार पर स्थान-बटन दबाकर आप फिर से पता लगा सकते हैं।</string>
   <string name="show_map_on_current_location">वर्तमान स्थान पर मानचित्र दिखाएं?</string>
   <string name="cannot_locate_user">उपयोगकर्ता का पता नहीं लगा सकता । कृपया सिस्टम सेटिंग्स में स्थान सेवाएं सक्षम करें!</string>
   <string name="error_couldnt_connect_or_register">त्रुटि: सर्वर से कनेक्ट नहीं कर सका या उपयोगकर्ता की जांच नहीं कर सका ।</string>
