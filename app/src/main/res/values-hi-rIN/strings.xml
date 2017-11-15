@@ -29,6 +29,7 @@
   <string name="duration_days_left_text">दिन बचे</string>
   <string name="duration_months_left_text">महीने बचे</string>
   <!-- Publish -->
+  <string name="suggested">सुझावा</string>
   <string name="select_froody">Froody का चयन करें...</string>
   <string name="hint__description__enter_here">इस प्रविष्टि के लिए विवरण यहां दर्ज करें (जैसे गुणवत्ता, मुरब्बा बनाने के लिए, उपप्रकार...)</string>
   <string name="hint__contact__enter_here">इस प्रविष्टि के लिए संपर्क विवरण यहां दर्ज करें (आपका टेलीफोन नंबर या ई-मेल पता शामिल होना चाहिए)</string>
