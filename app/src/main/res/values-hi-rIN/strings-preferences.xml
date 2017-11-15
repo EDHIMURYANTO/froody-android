@@ -8,7 +8,11 @@
   <string name="pref_title__froody_server">सर्वर बदलें</string>
   <string name="pref_title__clear_cache">कैश को साफ़ करें</string>
   <string name="pref_desc__clear_cache">प्रविष्टि कैश, अंतिम स्थिति को साफ़ करें</string>
+  <string name="pref_desc__froody_server">प्रविष्टियां प्राप्त करने के लिए सर्वर को बदलें</string>
+  <string name="pref_title__network__http_proxy_enabled">Http प्रॉक्सी (Tor) का उपयोग करें</string>
   <!-- App -->
+  <string name="pref_title__user_id">उपयोगकर्ता आईडी</string>
   <string name="pref_cat__expert">विशेषज्ञ सेटिंग्स</string>
+  <string name="pref_desc__reset_app">एप्लिकेशन को ताज़ा स्थापित स्थिति पर रीसेट करता है</string>
   <string name="pref_title__reset_app">एप्लिकेशन रीसेट करें</string>
 </resources>
