@@ -6,12 +6,24 @@
   <string name="description">विवरण</string>
   <string name="location">स्थान</string>
   <!-- More general words -->
+  <string name="map">मानचित्र</string>
+  <string name="blog">ब्लॉग</string>
+  <string name="license">लाइसेंस</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">कोई प्रविष्टियां उपलब्ध नहीं हैं</string>
+  <string name="really_delete_entry">क्या आप वाकई इस प्रविष्टि को हटाना चाहते हैं?</string>
   <string name="duration_days_left_text">दिन बचे</string>
   <string name="duration_months_left_text">महीने बचे</string>
   <!-- Publish -->
   <string name="select_froody">Froody का चयन करें...</string>
+  <string name="publish_entry_now">अभी प्रकाशित करें</string>
   <!-- Info -->
+  <string name="sponsors">प्रायोजक</string>
   <!-- Location -->
+  <string name="translate">अनुवाद करें</string>
+  <string name="spread">फैल</string>
+  <string name="error_incomplete_input">त्रुटि: अधूरा इनपुट</string>
   <string name="pref_title__language">भाषा</string>
+  <string name="data_copied_to_clipboard">डेटा क्लिपबोर्ड पर कॉपी किया गया</string>
+  <string name="load_from_clipboard">क्लिपबोर्ड से लोड करें</string>
 </resources>
