@@ -10,13 +10,21 @@
   <string name="certification_type__none">कुछ नहीं</string>
   <string name="certification_type__bio">ऑर्गेनिक</string>
   <!-- Distribution Types -->
+  <string name="distribution_type__sale">बिक्री</string>
+  <string name="distribution_type__swap">विनिमय</string>
+  <string name="distribution_type__free">निःशुल्क</string>
   <string name="distribution_type__voluntary_donation">दान</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__miscellaneous">विविध</string>
   <string name="entry_type__special__water">पानी</string>
   <!-- Entry Types -->
   <string name="entry_type__apple">सेब</string>
+  <string name="entry_type__pear">नाशपाती</string>
   <string name="entry_type__cherry">चेरी</string>
+  <string name="entry_type__plum">बेर</string>
+  <string name="entry_type__currant_red">लाल किशमिश</string>
   <string name="entry_type__grape">अंगूर</string>
+  <string name="entry_type__hazelnut">हेज़ल्नट</string>
   <string name="entry_type__milk">दूध</string>
   <string name="entry_type__raspberry">रास्प बेरी</string>
   <string name="entry_type__walnut">अखरोट</string>
@@ -32,7 +40,9 @@
   <string name="entry_type__lemon">नींबू</string>
   <string name="entry_type__mushroom">मशरूम</string>
   <string name="entry_type__orange">संतरे</string>
+  <string name="entry_type__peach">आड़ू</string>
   <string name="entry_type__potato">आलू</string>
+  <string name="entry_type__sapling">पौधे</string>
   <string name="entry_type__strawberry">स्ट्रॉबेरी</string>
   <string name="entry_type__tomato">टमाटर</string>
   <string name="entry_type__wood">लकड़ी</string>
@@ -52,4 +62,5 @@
   <string name="entry_type__salad">सलाद</string>
   <string name="entry_type__seed">बीज</string>
   <string name="entry_type__soy_bean">सोया बीन्स</string>
+  <string name="entry_type__currant_black">काले किशमिश</string>
 </resources>
