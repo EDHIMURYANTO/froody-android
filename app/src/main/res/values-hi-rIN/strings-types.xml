@@ -7,16 +7,24 @@
   <string name="gps_type__previous">पिछला स्थान</string>
   <string name="gps_type__current">वर्तमान स्थान</string>
   <!-- Certification Types -->
+  <string name="certification_type__none">कुछ नहीं</string>
+  <string name="certification_type__bio">ऑर्गेनिक</string>
   <!-- Distribution Types -->
   <string name="distribution_type__voluntary_donation">दान</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__water">पानी</string>
   <!-- Entry Types -->
   <string name="entry_type__apple">सेब</string>
+  <string name="entry_type__cherry">चेरी</string>
   <string name="entry_type__grape">अंगूर</string>
   <string name="entry_type__milk">दूध</string>
+  <string name="entry_type__raspberry">रास्प बेरी</string>
   <string name="entry_type__walnut">अखरोट</string>
   <string name="entry_type__carrot">गाजर</string>
+  <string name="entry_type__cereal">अनाज</string>
+  <string name="entry_type__chili">मिर्च</string>
+  <string name="entry_type__corn">मक्का</string>
+  <string name="entry_type__cucumber">खीरा</string>
   <string name="entry_type__egg">अंडे</string>
   <string name="entry_type__fish">मछली</string>
   <string name="entry_type__flower">फूल</string>
@@ -30,11 +38,14 @@
   <string name="entry_type__wood">लकड़ी</string>
   <string name="entry_type__aubergine">बैंगन</string>
   <string name="entry_type__mango">आम</string>
+  <string name="entry_type__green_bean">हरी बीन्स</string>
   <string name="entry_type__blueberry">ब्लूबेरी</string>
   <string name="entry_type__garlic">लहसुन</string>
   <string name="entry_type__onion">प्याज</string>
   <string name="entry_type__pea">मटर</string>
   <string name="entry_type__pepper">काली मिर्च</string>
   <string name="entry_type__radish">मूली</string>
+  <string name="entry_type__salad">सलाद</string>
   <string name="entry_type__seed">बीज</string>
+  <string name="entry_type__soy_bean">सोया बीन्स</string>
 </resources>
