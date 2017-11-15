@@ -9,6 +9,7 @@
   <string name="pref_title__clear_cache">कैश को साफ़ करें</string>
   <string name="pref_desc__clear_cache">प्रविष्टि कैश, अंतिम स्थिति को साफ़ करें</string>
   <string name="pref_desc__froody_server">प्रविष्टियां प्राप्त करने के लिए सर्वर को बदलें</string>
+  <string name="pref_summary__network__http_proxy_enabled">अधिक ट्रैफ़िक के लिए टोर का उपयोग करें। कुछ तृतीय-पक्ष-पुस्तकालय (जैसे रिवर्स जियोओकोडर) प्रॉक्सी के माध्यम से कनेक्शन का समर्थन नहीं कर सकते हैं । परिवर्तन के लिए पुनरारंभ आवश्यक है</string>
   <string name="pref_title__network__http_proxy_enabled">Http प्रॉक्सी (Tor) का उपयोग करें</string>
   <!-- App -->
   <string name="pref_title__user_id">उपयोगकर्ता आईडी</string>
