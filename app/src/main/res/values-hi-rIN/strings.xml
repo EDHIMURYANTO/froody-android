@@ -5,6 +5,7 @@
   <string name="image">चित्र</string>
   <string name="reset">रीसेट करें</string>
   <string name="settings">सेटिंग्स</string>
+  <string name="more">अधिक</string>
   <string name="description">विवरण</string>
   <string name="location">स्थान</string>
   <string name="all">सब</string>
@@ -22,15 +23,20 @@
   <!-- Main -->
   <string name="no_entries_were_published_by_me">कोई प्रविष्टियां उपलब्ध नहीं हैं</string>
   <string name="really_delete_entry">क्या आप वाकई इस प्रविष्टि को हटाना चाहते हैं?</string>
+  <string name="share_entry_ask">प्रविष्टि साझा करें?</string>
+  <string name="share">साझा करें...</string>
   <string name="donate_bitcoin">दान करें\nबिटकॉइन</string>
   <string name="duration_days_left_text">दिन बचे</string>
   <string name="duration_months_left_text">महीने बचे</string>
   <!-- Publish -->
   <string name="select_froody">Froody का चयन करें...</string>
+  <string name="hint__description__enter_here">इस प्रविष्टि के लिए विवरण यहां दर्ज करें (जैसे गुणवत्ता, मुरब्बा बनाने के लिए, उपप्रकार...)</string>
+  <string name="hint__contact__enter_here">इस प्रविष्टि के लिए संपर्क विवरण यहां दर्ज करें (आपका टेलीफोन नंबर या ई-मेल पता शामिल होना चाहिए)</string>
   <string name="publish_entry_now">अभी प्रकाशित करें</string>
   <string name="publish_entry">प्रकाशित करे</string>
   <string name="limited_time_active_notice">सावधान! प्रविष्टि अभी तक% %1$d दिन के लिए उपलब्ध है</string>
   <string name="share_my_entry_at_froody">Froody ऐप में मेरी प्रविष्टि</string>
+  <string name="share_chooser_share_entry">प्रविष्टि साझा करें</string>
   <string name="nav__my_entries">मेरे प्रविष्टियां</string>
   <string name="error_cannot_publish_entry">त्रुटि: प्रविष्टि को प्रकाशित नहीं किया जा सकता</string>
   <!-- Info -->
@@ -43,6 +49,8 @@
   <string name="gps_locating_user">पता लगा रहा है...</string>
   <string name="address_most_near">पास</string>
   <string name="show_map_on_current_location">वर्तमान स्थान पर मानचित्र दिखाएं?</string>
+  <string name="cannot_locate_user">उपयोगकर्ता का पता नहीं लगा सकता । कृपया सिस्टम सेटिंग्स में स्थान सेवाएं सक्षम करें!</string>
+  <string name="error_couldnt_connect_or_register">त्रुटि: सर्वर से कनेक्ट नहीं कर सका या उपयोगकर्ता की जांच नहीं कर सका ।</string>
   <string name="support_the_project">परियोजना का समर्थन करें</string>
   <string name="translate">अनुवाद करें</string>
   <string name="spread">फैल</string>
