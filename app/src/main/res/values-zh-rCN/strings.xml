@@ -39,6 +39,28 @@
   <string name="share_my_entry_at_froody">我在 Froody 应用程序的条目</string>
   <string name="share_chooser_share_entry">共享条目</string>
   <string name="nav__my_entries">我的条目</string>
+  <string name="error_cannot_publish_entry">错误: 无法发布条目</string>
   <!-- Info -->
+  <string name="show_app_licenses">显示许可协议​​​​​​</string>
+  <string name="show_third_party_licenses">显示第三方许可</string>
+  <string name="more_information">更多信息</string>
+  <string name="sponsors">赞助商</string>
   <!-- Location -->
+  <string name="request_location">请求位置</string>
+  <string name="gps_locating_user">定位。。。</string>
+  <string name="address_most_near">附近</string>
+  <string name="error_bad_permissions">请允许 Froody 访问您的设备的位置. nWithout 此权限您无法用 Froody 发布条目, 并且无法确定您在地图上的当前位置. \n 您可以通过按顶部工具栏上的 \"位置\" 按钮再次定位。</string>
+  <string name="show_map_on_current_location">在当前位置显示地图？</string>
+  <string name="cannot_locate_user">无法定位用户。请在系统设置中启用位置服务!</string>
+  <string name="error_couldnt_connect_or_register">错误: 无法连接到服务器或无法检查用户。</string>
+  <string name="support_the_project">支持本项目</string>
+  <string name="translate">翻译</string>
+  <string name="spread">传播</string>
+  <string name="report_bugs">报告 \n nbugs</string>
+  <string name="about_the_app">关于 \n 应用程序</string>
+  <string name="error_incomplete_input">错误: 输入不完整</string>
+  <string name="pref_desc__language">更改此应用程序的语言. 重新启动应用程序以让更改生效</string>
+  <string name="pref_title__language">语言</string>
+  <string name="data_copied_to_clipboard">复制到剪贴板的数据</string>
+  <string name="load_from_clipboard">从剪贴板加载</string>
 </resources>
