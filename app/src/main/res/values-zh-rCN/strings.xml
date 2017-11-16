@@ -18,10 +18,10 @@
   <string name="contact">联系人</string>
   <string name="map">地图</string>
   <string name="blog">博客</string>
-  <string name="license">许可证书</string>
+  <string name="license">许可</string>
   <string name="changelog">更新日志​​​​​</string>
   <!-- Main -->
-  <string name="no_entries_were_published_by_me">无可用条目。</string>
+  <string name="no_entries_were_published_by_me">无可用条目</string>
   <string name="really_delete_entry">是否要删除此项？</string>
   <string name="share_entry_ask">共享条目？</string>
   <string name="share">共享。。。</string>
@@ -49,14 +49,14 @@
   <string name="request_location">请求位置</string>
   <string name="gps_locating_user">定位。。。</string>
   <string name="address_most_near">附近</string>
-  <string name="error_bad_permissions">请允许 Froody 访问您的设备的位置. nWithout 此权限您无法用 Froody 发布条目, 并且无法确定您在地图上的当前位置. \n 您可以通过按顶部工具栏上的 \"位置\" 按钮再次定位。</string>
+  <string name="error_bad_permissions">请允许 Froody 访问您的设备的位置。没有\n\n 权限，您将无法用 Froody 发布条目，并且无法确定您在地图上的当前位置。\n\n 您可以通过按顶部工具栏上的 \"位置\" 按钮再次定位。</string>
   <string name="show_map_on_current_location">在当前位置显示地图？</string>
-  <string name="cannot_locate_user">无法定位用户。请在系统设置中启用位置服务!</string>
-  <string name="error_couldnt_connect_or_register">错误: 无法连接到服务器或无法检查用户。</string>
+  <string name="cannot_locate_user">无法定位用户。请在系统设置中启用位置服务！</string>
+  <string name="error_couldnt_connect_or_register">错误：无法连接到服务器或无法检查用户。</string>
   <string name="support_the_project">支持本项目</string>
   <string name="translate">翻译</string>
   <string name="spread">传播</string>
-  <string name="report_bugs">报告 \n nbugs</string>
+  <string name="report_bugs">报告 \n 异常</string>
   <string name="about_the_app">关于 \n 应用程序</string>
   <string name="error_incomplete_input">错误: 输入不完整</string>
   <string name="pref_desc__language">更改此应用程序的语言. 重新启动应用程序以让更改生效</string>
