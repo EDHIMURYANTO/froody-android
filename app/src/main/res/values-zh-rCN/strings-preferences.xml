@@ -9,5 +9,11 @@
   <string name="pref_title__clear_cache">清除缓存</string>
   <string name="pref_desc__clear_cache">清除缓存条目，最后一个位置</string>
   <string name="pref_desc__froody_server">更改用于获取条目的服务器</string>
+  <string name="pref_summary__network__http_proxy_enabled">使用 Tor 作为大多数通信的 http 代理。有些第三方库 (例如，reverse geocoder) 可能不支持通过代理的连接。需要重新启动以进行更改</string>
+  <string name="pref_title__network__http_proxy_enabled">使用 http 代理 (Tor)</string>
   <!-- App -->
+  <string name="pref_title__user_id">用户编号</string>
+  <string name="pref_cat__expert">高级设定</string>
+  <string name="pref_desc__reset_app">将应用程序重置为全新安装状态</string>
+  <string name="pref_title__reset_app">重置应用程序</string>
 </resources>
