@@ -59,7 +59,7 @@
   <string name="report_bugs">报告 \n 异常</string>
   <string name="about_the_app">关于 \n 应用程序</string>
   <string name="error_incomplete_input">错误: 输入不完整</string>
-  <string name="pref_desc__language">更改此应用程序的语言. 重新启动应用程序以让更改生效</string>
+  <string name="pref_desc__language">更改此应用程序的语言。重新启动应用程序以启用更改</string>
   <string name="pref_title__language">语言</string>
   <string name="data_copied_to_clipboard">复制到剪贴板的数据</string>
   <string name="load_from_clipboard">从剪贴板加载</string>
