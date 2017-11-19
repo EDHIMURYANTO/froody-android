@@ -27,6 +27,7 @@
   <string name="share">Подели&#8230;</string>
   <string name="donate_bitcoin">Донирајте\nБиткоине</string>
   <string name="duration_days_left_text">Преостало дана</string>
+  <string name="duration_months_left_text">Преостало месеци</string>
   <!-- Publish -->
   <string name="suggested">Понуђено</string>
   <string name="select_froody">шта се нуди&#8230;</string>
@@ -60,4 +61,6 @@
   <string name="error_incomplete_input">Грешка: непотпун унос</string>
   <string name="pref_desc__language">Промените језик апликације. Поново покрените након тога</string>
   <string name="pref_title__language">Језик</string>
+  <string name="data_copied_to_clipboard">Подаци копирани у клипборд</string>
+  <string name="load_from_clipboard">Учитај из клипборда</string>
 </resources>
